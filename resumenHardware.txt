@@ -1,0 +1,4 @@
+Ejemplos de Memorias Principales
+RAM DDR
+RAM DDR2
+RAM DDR3

@@ -1,0 +1,4 @@
+Ejemplos de Software
+Microsoft Word
+Notepad
+Visual Studio Code

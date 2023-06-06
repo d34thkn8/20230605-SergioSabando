@@ -1,0 +1,28 @@
+  347  cd /c/20230605-SergioSabando
+  348  ls
+  349  git init 
+  350  git remote add origin https://github.com/d34thkn8/20230605-SergioSabando.git
+  351  touch comandos.txt main.js index.html
+  352  git add .
+  353  git commit -m "commit 01 de SergioSabando"
+  354  git push -u origin main
+  355  git checkout -m feature
+  356  git checkout -b feature
+  357  mkdir Hardware Software SeguridadInformatica
+  358  touch */resumen.txt
+  359  touch Hardware/resumen.txt
+  360  touch Software/resumen.txt
+  361  touch SeguridadInformatica/resumen.txt
+  362  git add .
+  363  git commit -m "commit 02 de SergioSabando"
+  364  git push -u origin feature
+  365  git checkout main
+  366  ren main.js resumenHardware.txt
+  367  rename main.js resumenHardware.txt
+  368  move main.js resumenHardware.txt
+  369  mv main.js resumenHardware.txt
+  370  mv index.html resumenSoftware.txt
+  371  nano resumenHardware.txt 
+  372  nano resumenSoftware.txt 
+  373  ls
+  374  history > comandos.txt
